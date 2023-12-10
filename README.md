@@ -8,7 +8,7 @@
 
    Guide for cloning Github Repo: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-2) Intantiate Virtual Studio code or any Development environment of your choice to complete the assessment in your local working directory.
+2) Instantiate Virtual Studio code or any Development environment of your choice to complete the assessment in your local working directory.
 
 3) Save the files and push it into forked Github github repo.
 
@@ -24,7 +24,7 @@
    
    c) Ubuntu: https://askubuntu.com/questions/4428/how-can-i-record-my-screen
    
-6) Share the repository link into the Google Form: [https://forms.gle/QCfjjyQQ5jnoegNe9](https://forms.gle/9bKzGpKyAr1g1vpF7)
+5) Share the repository link into the Google Form: https://forms.gle/9bKzGpKyAr1g1vpF7
 
 ## Problem Statement: Tic Tac Toe Game with Scorecard:
 
@@ -52,13 +52,7 @@ Develop a web-based Tic Tac Toe game for two players that allows them to take tu
 
    e) Implement a mechanism to detect a draw (all cells filled without a winner).
 
-3) **Scorecard Feature:**
-
-   a) Integrate a scorecard that displays the number of wins for each player.
-
-   b)Update the scorecard after each game to reflect the outcome (increment the winning player's score or declare a draw).
-
-4) **User Interaction:**
+3) **User Interaction:**
 
    a) Enable players to click or interact with the grid cells to place their marks.
 
@@ -66,7 +60,7 @@ Develop a web-based Tic Tac Toe game for two players that allows them to take tu
 
    c) Update the scorecard dynamically to reflect the latest scores.
 
-5) **Responsive Design:**
+4) **Responsive Design:**
 
    a) Ensure the game and scorecard are responsive and playable on both desktop and mobile devices.
 
