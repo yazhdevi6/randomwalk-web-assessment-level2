@@ -38,8 +38,6 @@ Develop a web-based Tic Tac Toe game for two players that allows them to take tu
 
    b) Display a 3x3 grid where players can place their marks (X or O) within the individual cells.
 
-   c) Show a scorecard that tracks the number of wins for each player.
-
 2) **Game Logic:**
    
    a) Implement game logic in JavaScript to handle player turns and interactions.
